@@ -5,6 +5,8 @@ Chess game in terminal interface using Golang.
 - Learn Go fundamentals
 - Learn how to play chess
 - Add feature for multiplayer (using TCP connection)
+    - take a pause if other player agreed
+    - surrender
 
 # Requirements
 
